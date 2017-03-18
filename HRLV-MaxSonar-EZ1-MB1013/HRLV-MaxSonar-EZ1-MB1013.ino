@@ -1,4 +1,3 @@
-#include <Wire.h>
 //Written to read sensor data through PWM
 //Arduino Uno
 
